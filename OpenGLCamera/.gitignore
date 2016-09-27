@@ -1,0 +1,5 @@
+.metadata
+GlCamera/bin
+GlCamera/obj
+*.so
+*.a

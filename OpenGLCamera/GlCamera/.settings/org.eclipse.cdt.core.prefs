@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1722318716.1338567267/CYGWIN/delimiter=;
+environment/project/com.android.toolchain.gcc.1722318716.1338567267/CYGWIN/operation=replace
+environment/project/com.android.toolchain.gcc.1722318716.1338567267/CYGWIN/value=C\:\\cygwin64
+environment/project/com.android.toolchain.gcc.1722318716.1338567267/append=true
+environment/project/com.android.toolchain.gcc.1722318716.1338567267/appendContributed=true
+environment/project/com.android.toolchain.gcc.1722318716/CYGWIN/delimiter=;
+environment/project/com.android.toolchain.gcc.1722318716/CYGWIN/operation=replace
+environment/project/com.android.toolchain.gcc.1722318716/CYGWIN/value=C\:\\cygwin64
+environment/project/com.android.toolchain.gcc.1722318716/append=true
+environment/project/com.android.toolchain.gcc.1722318716/appendContributed=true
